@@ -1,7 +1,4 @@
-# my-first-rep
 
-# Created by https://www.toptal.com/developers/gitignore/api/windows
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows
 
 ### Windows ###
 # Windows thumbnail cache files
